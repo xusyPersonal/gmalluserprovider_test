@@ -1,2 +1,0 @@
-# gmalluserprovider
-dubbo provider
